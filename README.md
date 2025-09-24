@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samson </h1>
-<h3 align="center">I'm a software developer passionate about building web applications and exploring new technologies.</h3>
+<h3 align="center">I’m a DevOps engineer passionate about building reliable, scalable, and automated systems. My focus is on bridging the gap between development and operations to deliver faster, safer, and smarter software.</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center" > <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
