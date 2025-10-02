@@ -15,7 +15,7 @@
 <h3>Stats</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samsonsurin&show_icons=true&locale=en&layout=compact&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="samson2210" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samson2210&show_icons=true&locale=en&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="samson2210" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samsonsurin&show_icons=true&locale=en&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="samson2210" /></p>
 
 
 
